@@ -1,0 +1,6 @@
+@UKandUSAPI_HostAddress = http://localhost:5259
+
+GET {{UKandUSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
